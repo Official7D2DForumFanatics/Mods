@@ -2,4 +2,5 @@ Location: 75.127.5.186:26740
 Whitelisted Only
 Admin: JaxTeller718
 Vanilla-Experimental
+ForceVersion: latest_experimental
 
